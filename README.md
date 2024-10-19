@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                        Hi 👋🏻, I'm Khalifa Ltaief <br>Love bringing ideas to life ⚡<br>Driven to create amazing user experiences that make a difference!  🚀
+Hi 👋🏻, I'm Khalifa Ltaief <br>Love bringing ideas to life ⚡<br>Driven to create amazing user experiences that make a difference!  🚀
 
 
 ## 🌐 Socials:
