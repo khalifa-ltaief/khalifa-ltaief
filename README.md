@@ -1,6 +1,6 @@
 
 <h2 align="center" font size="55"> About Me: 💫 </h2>
-<p align="center">Hi 👋👋, I'm Khalifa Ltaief</p> <br>Love bringing ideas to life ⚡<br>Driven to create amazing user experiences that make a difference!  🚀
+<p align="center">Hi 👋👋, I'm Khalifa Ltaief</p> <br> <p align="center">Love bringing ideas to life ⚡</p> <br> <p align="center">Driven to create amazing user experiences that make a difference!  🚀</p>
 
 
 ## 🌐 Socials:
